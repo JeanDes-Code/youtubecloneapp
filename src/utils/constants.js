@@ -16,17 +16,16 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'Nouveautés', icon: <HomeIcon /> },
-  // { name: 'JeanDesCode', icon: <CodeIcon /> },
-  { name: 'Développement Web', icon: <CodeIcon /> },
+  { name: 'JS Mastery', icon: <CodeIcon /> },
+  { name: 'Web3.0', icon: <CodeIcon /> },
   { name: 'ReactJS', icon: <CodeIcon /> },
   { name: 'NextJS', icon: <CodeIcon /> },
   { name: 'Musique', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon /> },
+  { name: 'Lofi', icon: <MusicNoteIcon /> },
   { name: 'Podcast', icon: <GraphicEqIcon /> },
   { name: 'Films', icon: <OndemandVideoIcon /> },
   { name: 'Gaming', icon: <SportsEsportsIcon /> },
   { name: 'Live', icon: <LiveTvIcon /> },
-  { name: 'Sport', icon: <FitnessCenterIcon /> },
   { name: 'Mode', icon: <CheckroomIcon /> },
   { name: 'Beauté', icon: <FaceRetouchingNaturalIcon /> },
   { name: 'Comédie', icon: <TheaterComedyIcon /> },
@@ -34,8 +33,10 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon /> },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoThumbnailUrl =
+  'https://i.ibb.co/G2L2Gwp/API-Course.png';
+export const demoChannelUrl =
+  '/channel/UCmXmlB4-HJytD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
 export const demoChannelTitle = 'JavaScript Mastery';
 export const demoVideoTitle =
